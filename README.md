@@ -1,13 +1,20 @@
-## Welcome to Chrisopal Pages - Summary About me
+# Welcome to Chrisopal Personal Page
 
-Talented engineer & architect, motivated leader, inspirational domain expert empowered by fabulous English. I'm now focusing on telecommunication NFV/SDN field, enabling CSP to DSP transformation.
+## Summary
+Talented engineer & architect, motivated leader, inspirational domain expert empowered by fabulous English. I'm now focusing on telecommunication NFV/SDN field, enabling CSP to DSP transformation. I like to explore new IT technologies, like block chain, AI and IOT.
 
-I like to explore new technologies 
+## Experiences
+```markdown
+# Consultant Manager at Accenture
+### Dates Employed: Dec 2017 – Present
+### Location: Shanghai City, China
 
-### Markdown
+**Worked as consultant manager to provide solution architect consultancy for NFV& SDN network operation transformation for Huawei GTS.**
+1. Designed NFV & SDN network operation transformation business capabilities map.
+2. Design NFV & SND TO-BE Operation Process, Metrics frameworks, People & Organization Model.
+3. Design consulting proposals, pricing model, pre-sales deck as well as Maturity model.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+```
 ```markdown
 Syntax highlighted code block
 
